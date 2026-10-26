@@ -1,0 +1,22 @@
+.heading{
+  color: purple;
+  font-weight: bold;
+  text-align: center;
+  margin: 30px 30px;
+}
+.pizzatext{
+  color: rgb(154, 104, 10);
+  font-size: 15px;
+  margin-left:30px;
+}
+.pizzaimg{
+  height: 280px;
+  width: 420px;
+}
+.pricetext{
+  font-style: italic;
+}
+.subhead{
+  text-align: center;
+  
+}

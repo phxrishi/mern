@@ -1,0 +1,17 @@
+.container-fluid{
+  min-height: 300px;
+}
+img{
+  height: 580px;
+}
+.paratext{
+  font-size: 12px;
+}
+.paratext2{
+  font-size: 11px;
+}
+
+.htext{
+  
+  font-size: 10px;
+}

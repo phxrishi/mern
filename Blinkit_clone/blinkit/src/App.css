@@ -1,0 +1,125 @@
+h5{
+    margin-bottom: 0px;
+    line-height: 1.1;
+}
+.navouterborder{
+    border-bottom: 1px solid rgb(238, 235, 235);
+    
+    
+}
+.logorightborder{
+    border-right: 1px solid rgb(220, 218, 218);   
+}
+
+.form-control{
+    background-color: rgb(249, 248, 248);
+    border-radius: 10px;
+}
+.logintext, a{
+    text-decoration: none;
+    color: black;
+    font-size: 3vh;
+    
+}
+.btn{
+    height: 7vh;
+    background-color:rgb(228, 228, 228);
+    font-size: 2.3vh;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 1vh;
+}
+.carticon{
+    color: white;
+    
+}
+.poster1{
+    height: 48vh;
+    width: 215vh;   
+}
+
+
+ /* FOOTER SECTION 1 START  */
+ .footer{
+  height: 500px;
+  width: 1250px;
+  
+ }
+ .ufooter{
+  height: 400px;
+  width: 1250px;
+ }
+ .lfooter{
+  height: 100px;
+  width: 1250px;
+  background-color: pink;
+ }
+ .col1{
+  height: 400px;
+  width: 500px;
+  
+  float: left;
+ }
+ .col2{
+  height: 400px;
+  width: 750px;
+  
+  float: left;
+ }
+ .column{
+  height: 340px;
+  width: 110px;
+  float: left;
+  box-sizing: border-box;
+  color: rgb(155, 153, 153);
+  padding-left:10px;
+ }
+ .column ul li{
+  list-style: none;
+  text-align: left;
+  padding: 5px  ;
+ 
+ }
+ .columna ul li{
+  list-style: none;
+  column-count: 3;
+  color: rgb(155, 153, 153);
+  padding: 5px;
+ }
+ .col3{
+  height: 340px;
+  width: 250px;
+ 
+  float: left;
+  margin-top: -5px;
+ }
+ .col3 ul li{
+  list-style-type: none;
+  padding: 5px;
+  color: rgb(155, 153, 153);
+ }
+
+ .seeall{
+    text-decoration: none;
+ }
+ .li1css, ul, li{
+    list-style: none;
+    padding: 0.3vh;
+    color: rgb(147, 145, 145);
+    font-size: 14px;
+ }
+ .footersec2{
+    color: rgb(123, 122, 122);
+    font-size: 14px;
+ }
+ .download{
+    color: rgb(123, 122, 122);
+ }
+ .iconbg{
+    background-color: black;
+    height: 7vh;
+    width: 7vh;
+    border-radius: 100%;
+    
+ }

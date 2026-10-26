@@ -1,0 +1,77 @@
+
+body {
+  margin: 0;                      
+  overflow-x: hidden;             
+  background-image: url('task1_img.png');
+  background-size: cover;          
+  background-position: center;    
+  background-repeat: no-repeat;    
+  background-attachment: fixed;   
+  height: 100vh; 
+}  
+
+.navbar-section, ul {
+  
+  list-style: none;
+  float: left;
+  font-size: 12px;
+}
+
+.navbar-section, ul, li{
+  float: left;
+}
+
+.home{
+  border-bottom: 2px solid #386cef;   /* underline banega */
+  padding-bottom: 2px; 
+}
+
+.navbar-section, ul, li, a{
+  text-decoration: none;
+  color: black;
+}
+
+/* =============MIDDLE SECTION CSS ============== */
+.digitalfuture{
+border-bottom: 2px solid #3768e4;   /* underline banega */
+  padding-bottom: 3px; 
+}
+
+.middletext{
+  font-size: 13px;
+ 
+}
+.buton{
+  align-items: center;
+  font-size: 10px;
+
+}
+
+.playbtnin{
+  font-size: 30px;
+}
+
+.playbtnout{
+  border-radius: 100%;
+  padding: 0;
+}
+.watchdemo{
+  font-size: 9px;
+}
+.midsec{
+  min-height: 450px;
+}
+
+/* ======================== FOOTER SECTION CSS ============ */
+
+.logo{
+  color: rgb(171, 168, 168);
+  height: 80px;
+  width: 150px;
+  filter: grayscale(100%); /* logo ko grey/light grey karne ke liye */
+  opacity: 0.6;
+}
+
+.footer, ul, li{
+  list-style: none;
+}

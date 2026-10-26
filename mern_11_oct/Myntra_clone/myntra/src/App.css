@@ -1,0 +1,36 @@
+.navmenu, ul, li {
+  list-style: none;
+  display: flex;
+  font-weight: 650;
+  font-size: 14px;
+  
+}
+.search-container{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.smalltext{
+  font-size: 12px;
+}
+
+/* .navbar {
+  position: fixed;   
+  top: 0;          
+  left: 0;           
+  width: 100%;      
+  z-index: 1000;    
+} */
+
+.shopbycategorytext{
+  color: rgb(135, 75, 40);
+  font-family:'Georgia', serif;
+}
+
+.categorybg{
+ background: linear-gradient(
+    white, 
+    rgba(238, 164, 27, 0.2) 100%  
+  );
+}
